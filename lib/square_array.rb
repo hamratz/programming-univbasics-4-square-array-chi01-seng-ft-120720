@@ -1,10 +1,9 @@
 numbers = [1, 2, 3]
 
-new[]
+new_numbers = []
+
 def 
 end
  
- do
-end
 
 
